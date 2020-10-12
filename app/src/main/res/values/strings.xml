@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">GITHUB_DMOS5</string>
+    <string name="nome_app">Consulte seu(s) repositório(s) do GitHub</string>
+    <string name="text_nome">Nome Usuário:</string>
+    <string name="hint_usuario">Digite seu nome de usuário</string>
+    <string name="text_buscar">Buscar</string>
+    <string name="usuario_invalido">Preencha o campo nome usuário.</string>
+    <string name="erro_api">Erro ao buscar repositório(s).</string>
+    <string name="explicacao_permissao">A busca do respositório depende do acesso a internet, sem essa permissão o aplicativo não consegue recuperar a informação desejada.</string>
+    <string name="botao_permitir">Permitir</string>
+    <string name="botao_nao_permitir">Agora não</string>
+    <string name="nome_repositorio">Meus Repositórios</string>
+    <string name="rep_nao_encontrado">Repositório não foi encontrado</string>
 </resources>
